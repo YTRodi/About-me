@@ -1,2 +1,2 @@
 # About me
-Sample iOS app
+My first iOS app :)
